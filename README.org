@@ -1,5 +1,9 @@
 * Caption Items
 
+*Capture photos with the camera, crop and caption. The photos are saved to disk and the path, name, viewCount to UserDefaults.*
+
+[[day50.gif]]
+
 Challenge 4 - Day 50 - https://www.hackingwithswift.com/guide/5/3/challenge
 
 Your challenge is to put two different projects into one: I’d like you to let users take photos of things that interest them, add captions to them, then show those photos in a table view. Tapping the caption should show the picture in a new view controller, like we did with project 1. So, your finished project needs to use elements from both project 1 and project 12, which should give you ample chance to practice.
